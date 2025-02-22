@@ -6,5 +6,6 @@ I'm interested in:
   3. Data Science
      
 I'm currently learning:
-  1. Java
-  2. Python (pytorch, keras and scikit-learn)
+  1. Python
+  2. PostgreSQL
+  3. C/C++
